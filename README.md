@@ -1,6 +1,7 @@
 - 👋 Hi, I’m gangrammer
 - 👀 I’m interested in java and js 
-- 📫 How to reach me ganrunlinlin@outlook.com
+- 📫 you can reach me ganrunlinlin@outlook.com
+- ### 代码可以迷心智
 
 <!---
 gangrammer/gangrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
